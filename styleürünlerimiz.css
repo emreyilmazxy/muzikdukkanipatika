@@ -1,0 +1,15 @@
+body {background-color: #D2E0FB;}
+.h2renk {color: #697565;}
+.h3renk {color:#795757;}
+.h1renk {color: #C96868;}
+
+.navbar {text-align: center;font-size: larger;word-spacing: 12px;}
+ 
+.duzenlihiza {margin-left: 525px;}
+
+.anasayfa1 {word-spacing: normal !important;}
+.urunlerimiz1 {text-align: center;}
+.baslik {text-align: center;}
+
+img.resim {width: 350px; height: 350px;object-fit: cover;}
+span {margin-left: 100px;}
